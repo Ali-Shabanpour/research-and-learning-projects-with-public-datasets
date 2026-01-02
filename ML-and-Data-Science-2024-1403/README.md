@@ -80,4 +80,5 @@
 🟦 **Fault Detection** · **Signal Processing** · **Time-Series Analysis**  
 🟦 **Feature Engineering** · **Multi-View Learning** · **Model Evaluation**  
 🟦 **Neural Networks** · **Reinforcement Learning**
+
 By ali.shabanpour.w@gmail.com
